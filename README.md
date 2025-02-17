@@ -1,4 +1,7 @@
-## Hi there 👋
+### Det är jag som är Christian 
+
+Jag går nu en utbildning för att bli en fullstackutvecklare med inriktning mot Java. 
+
 
 <!--
 **Tegnvallius81/Tegnvallius81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
